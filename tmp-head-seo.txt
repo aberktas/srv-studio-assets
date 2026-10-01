@@ -1,0 +1,161 @@
+<!-- SEO: site-wide Open Graph extras and structured data. Brand name only, never the legal entity. -->
+<meta property="og:site_name" content="SRV Studio">
+<meta property="og:locale" content="en_US">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://srv.studio/#organization",
+      "name": "SRV Studio",
+      "url": "https://srv.studio/",
+      "logo": "https://framerusercontent.com/images/j1TVCaFH12bbgv4Xx2CW8gf1Y.png",
+      "image": "https://framerusercontent.com/images/K1VMro9CjRNgbaMTaxquZQzNDTM.png",
+      "description": "A creative and technology studio in Istanbul. One team takes a brand from positioning to production and a product from idea to release: brand and identity, content and social, software and platforms, growth and performance.",
+      "email": "hi@srv.studio",
+      "telephone": "+90 534 641 55 99",
+      "foundingDate": "2025-09",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kısıklı Mah. Alemdağ Cad. No:75/4",
+        "addressLocality": "Üsküdar",
+        "addressRegion": "İstanbul",
+        "addressCountry": "TR"
+      },
+      "areaServed": [
+        "TR",
+        "AU",
+        "Europe"
+      ],
+      "knowsAbout": [
+        "Brand identity",
+        "Packaging design",
+        "Content and social media",
+        "Web development",
+        "E-commerce",
+        "Donation platforms",
+        "Performance marketing",
+        "Google Ads",
+        "Meta Ads",
+        "Conversion tracking",
+        "AI automation"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/srvstudio/",
+        "https://www.instagram.com/studiosrv/",
+        "https://www.behance.net/srvstudio"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services",
+        "url": "https://srv.studio/services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand and Identity",
+              "url": "https://srv.studio/services/brand-and-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Content and Social",
+              "url": "https://srv.studio/services/content-and-social"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Software and Platforms",
+              "url": "https://srv.studio/services/software-and-platforms"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Growth and Performance",
+              "url": "https://srv.studio/services/growth-and-performance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "AI and Automation",
+              "url": "https://srv.studio/services/ai-and-automation"
+            }
+          }
+        ]
+      },
+      "audience": [
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Healthcare and Health Tourism",
+          "url": "https://srv.studio/industries/healthcare-and-health-tourism"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Real Estate and Construction",
+          "url": "https://srv.studio/industries/real-estate-and-construction"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "E-commerce and Retail",
+          "url": "https://srv.studio/industries/e-commerce-and-retail"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Consumer Brands and FMCG",
+          "url": "https://srv.studio/industries/consumer-brands-and-fmcg"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Education, Publishing and Media",
+          "url": "https://srv.studio/industries/education-publishing-and-media"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Non-profits, Foundations and Associations",
+          "url": "https://srv.studio/industries/non-profits-foundations-and-associations"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Finance, Fintech and Insurance",
+          "url": "https://srv.studio/industries/finance-fintech-and-insurance"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Technology, SaaS and Startups",
+          "url": "https://srv.studio/industries/technology-saas-and-startups"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Manufacturing, Industry and Export",
+          "url": "https://srv.studio/industries/manufacturing-industry-and-export"
+        },
+        {
+          "@type": "BusinessAudience",
+          "audienceType": "Tourism, Hospitality and Food",
+          "url": "https://srv.studio/industries/tourism-hospitality-and-food"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://srv.studio/#website",
+      "name": "SRV Studio",
+      "url": "https://srv.studio/",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://srv.studio/#organization"
+      }
+    }
+  ]
+}
+</script>
